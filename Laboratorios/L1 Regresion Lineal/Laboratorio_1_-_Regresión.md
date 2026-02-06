@@ -97,6 +97,7 @@ Una vez construido los modelos, deberías estar en capacidad de responder estas 
 ## <a name="entregables"></a> Entregables
 
 - Notebook (*.ipynb y *.html) por BloqueNeón con los nombres de los estudiantes. El Notebook debe estar documentado con las justificaciones de las decisiones tomadas en cada paso del ciclo de ML y las respuestas a las preguntas planteadas en el apartado “Análisis de resultados”. Además, deben ser visibles las ejecuciones de cada celda. 
+- Archivo "Datos test Lab1.csv" con la etiqueta de las predicciones
 - Video explicativo.
 
 Esta entrega debe realizarse máximo el **16 de febrero 20:00**. Recuerda registrar en el grupo GL1, los dos integrantes que presentan este laboratorio, con el fin de habilitar el enlace de entrega.
